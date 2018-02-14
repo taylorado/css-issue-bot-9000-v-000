@@ -1,5 +1,6 @@
 body {
   background: pink;
+}
 
 h1 {
   color: blue;
@@ -8,7 +9,7 @@ h1 {
 
 h2 {
   color: green;
-  font-weight: normal
+  font-weight: normal;
   font-style: italic;
 }
 
@@ -16,7 +17,7 @@ h2 {
   font-family: 12px;
 }
 
-#tasks .completed 
+#tasks .completed {
   backgound: #ccc;
   text-decoration: underline;
 }
